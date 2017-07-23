@@ -1,0 +1,1 @@
+In this location load the negative images for training 

@@ -1,0 +1,1 @@
+In this location load the Positive images for training 
